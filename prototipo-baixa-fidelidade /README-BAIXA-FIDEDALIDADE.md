@@ -80,8 +80,8 @@ Reserva
 
 Os protótipos estão separados de acordo com o perfil de usuário:
 
-* [`dono-silo/`](dono-silo) — telas relacionadas ao proprietário do silo.
-* [`produtor-rural/`](produtor-rural) — telas relacionadas ao produtor que procura espaço.
+* [`dono-silo/`](https://github.com/cakketobio/GoSilo-Prototipos/tree/main/prototipo-baixa-fidelidade%20/dono-silo) — telas relacionadas ao proprietário do silo.
+* [`produtor-rural/`](https://github.com/cakketobio/GoSilo-Prototipos/tree/main/prototipo-baixa-fidelidade%20/produtor-rural) — telas relacionadas ao produtor que procura espaço.
 
 ---
 
