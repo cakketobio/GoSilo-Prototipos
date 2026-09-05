@@ -355,7 +355,7 @@ Cada evolução do protótipo é realizada a partir dos requisitos definidos, da
 ## Links
 
 * **Repositório de Planejamento:** [GoSilo-Planejamento](https://github.com/cakketobio/GoSilo-Planejamento)
-* **Repositório de Protótipos:** [GoSIlo-Prototipos](https://github.com/cakketobio/GoSilo-Prototipos)
+* **Repositório de Protótipos:** [GoSilo-Prototipos](https://github.com/cakketobio/GoSilo-Prototipos)
 * **Repositório de Código:** Em desenvolvimento
 * **Board Kanban:** [Board Kanban do GoSilo](https://trello.com/invite/b/gdIdj7zz/ATTI027b16c041f19ee0085082933894d026F77FA151/projeto-integrador)
 
