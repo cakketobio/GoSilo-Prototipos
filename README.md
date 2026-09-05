@@ -88,7 +88,7 @@ GoSIlo-Prototipos/
 │   ├── glossario-visual/
 │   ├── guia-estilo/
 │   ├── validacao-final-prototipo.md
-│   └── wireframes-iniciais/
+│  
 │
 ├── fluxo-navegacao/
 │   ├── dono-silo/
@@ -118,10 +118,6 @@ A pasta [`UX-UI`](UX-UI) concentra os documentos utilizados para orientar e regi
 ### Funcionalidades do MVP
 
 O arquivo [`funcionalidades-mvp.md`](UX-UI/funcionalidades-mvp.md) reúne as funcionalidades consideradas prioritárias para a primeira versão da solução.
-
-### Wireframes iniciais
-
-A pasta [`wireframes-iniciais`](UX-UI/wireframes-iniciais) contém os primeiros estudos de organização das telas e informações.
 
 ### Glossário visual
 
