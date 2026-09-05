@@ -111,7 +111,7 @@ Durante esta etapa foram analisados principalmente:
 
 ## Evolução
 
-O protótipo de baixa fidelidade serviu como base para o desenvolvimento das etapas seguintes:
+O protótipo de baixa fidelidade serviu e servirá como base para o desenvolvimento das etapas seguintes:
 
 ```text
 Baixa Fidelidade
