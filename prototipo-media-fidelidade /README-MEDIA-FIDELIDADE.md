@@ -364,8 +364,8 @@ Os resultados das validações poderão gerar alterações nas próximas versõe
 
 # 🚀 Próximas etapas
 
-* [ ] Validar o protótipo com usuários;
-* [ ] Coletar feedback sobre os fluxos;
+* [x] Validar o protótipo com usuários;
+* [x] Coletar feedback sobre os fluxos;
 * [ ] Corrigir problemas de usabilidade;
 * [ ] Refinar os componentes visuais;
 * [ ] Desenvolver o protótipo de alta fidelidade;
