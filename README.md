@@ -86,6 +86,7 @@ GoSIlo-Prototipos/
 ├── UX-UI/
 │   ├── funcionalidades-mvp.md
 │   ├── glossario-visual/
+│   ├── wireframes-inciai/
 │   ├── guia-estilo/
 │   ├── teste-prototipo-baixafidelidade-feedback.md
 │   ├── validacao-baixafidelidade-prototipo.md
@@ -118,6 +119,10 @@ GoSIlo-Prototipos/
 ## UX/UI
 
 A pasta [`UX-UI`](UX-UI) concentra os documentos utilizados para orientar e registrar as decisões de experiência e interface do GoSilo.
+
+## Wireframes Iniciais
+
+A pasta [`wireframes-iniciais/`](wireframes-iniciai) reúne os primeiros estudos estruturais das telas.
 
 ### Funcionalidades do MVP
 
