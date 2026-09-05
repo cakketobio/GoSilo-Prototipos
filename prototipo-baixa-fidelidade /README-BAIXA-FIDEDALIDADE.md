@@ -89,8 +89,8 @@ Os protótipos estão separados de acordo com o perfil de usuário:
 
 Os protótipos foram desenvolvidos no **Figma**.
 
-**Protótipo de Baixa Fidelidade - Produtor Rural:** [`Fluxo Produtor Rural`](https://www.figma.com/design/409t3KQlWAKQPpBlJhGS3l/PRODUTOR-RURAL?node-id=0-1&t=ESaJ9wp2kAdtfJta-1)
-**Protótipo de Baixa Fidelidade - Dono do Silo:** [`Fluxo Dono do Silo`](https://www.figma.com/design/t6WIyFeB8JxbzjodJA34BG/DONO-SILO?node-id=0-1&t=A5ewyzvjUshsU9mJ-1)
+* **Protótipo de Baixa Fidelidade - Produtor Rural:** [`Fluxo Produtor Rural`](https://www.figma.com/design/409t3KQlWAKQPpBlJhGS3l/PRODUTOR-RURAL?node-id=0-1&t=ESaJ9wp2kAdtfJta-1)
+* **Protótipo de Baixa Fidelidade - Dono do Silo:** [`Fluxo Dono do Silo`](https://www.figma.com/design/t6WIyFeB8JxbzjodJA34BG/DONO-SILO?node-id=0-1&t=A5ewyzvjUshsU9mJ-1)
 
 > O link acima direciona para o arquivo utilizado durante a criação e validação dos protótipos.
 
