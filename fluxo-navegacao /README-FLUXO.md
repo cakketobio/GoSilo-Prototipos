@@ -248,7 +248,7 @@ Os fluxos definidos nesta pasta servem como referência para:
 * [x] Fluxo do Produtor Rural;
 * [x] Representação das principais telas;
 * [x] Desenvolvimento dos protótipos;
-* [ ] Validação da navegação;
+* [x] Validação da navegação;
 * [ ] Implementação dos fluxos no aplicativo.
 
 ---
