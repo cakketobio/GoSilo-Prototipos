@@ -87,18 +87,22 @@ GoSIlo-Prototipos/
 │   ├── funcionalidades-mvp.md
 │   ├── glossario-visual/
 │   ├── guia-estilo/
-│   ├── validacao-final-prototipo.md
+│   ├── teste-prototipo-baixafidelidade-feedback.md
+│   ├── validacao-baixafidelidade-prototipo.md
 │  
 │
 ├── fluxo-navegacao/
+│   ├── README-FLUXO.md/
 │   ├── dono-silo/
 │   └── produtor-rural/
 │
 ├── prototipo-baixa-fidelidade/
+│   ├── README-BAIXA-FIDELIDADE.md/
 │   ├── dono-silo/
 │   └── produtor-rural/
 │
 ├── prototipo-media-fidelidade/
+│   ├── README-MEDIA-FIDELIDADE.md/
 │   ├── dono-silo/
 │   └── produtor-rural/
 │
@@ -134,9 +138,13 @@ A pasta [`guia-estilo`](UX-UI/guia-estilo) reúne as definições relacionadas �
 * Padrões visuais;
 * Diretrizes de interface.
 
-### Validação final
+### Validação Baixa Fidelidade
 
-O arquivo [`validacao-final-prototipo.md`](UX-UI/validacao-final-prototipo.md) registra a validação realizada sobre o protótipo e os ajustes identificados durante o processo.
+O arquivo [`validacao-baixafidelidade-prototipo.md`](UX-UI/validacao-baixafidelidade-prototipo.md) registra a validação realizada sobre o protótipo de baixa fidelidade e os ajustes identificados durante o processo.
+
+### Validação Média Fidelidade
+
+O arquivo [`teste-prototipo-mediafidelidade-feedback.md`](UX-UI/teste-prototipo-mediafidelidade-feedback.md) registra a validação realizada sobre o protótipo de baixa fidelidade e os ajustes identificados durante o processo.
 
 ---
 
