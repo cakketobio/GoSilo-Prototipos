@@ -108,8 +108,11 @@ GoSIlo-Prototipos/
 │   └── produtor-rural/
 │
 ├── prototipo-alta-fidelidade/
+│   └── README-ALTA-FIDELIDADE.md/
 │   ├── dono-silo/
 │   └── produto-rural/
+│   └── pagina-login/
+│   └── configuracoes/
 │
 └── README.md
 ```
