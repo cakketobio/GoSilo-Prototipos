@@ -339,8 +339,8 @@ Cada evolução do protótipo é realizada a partir dos requisitos definidos, da
 | Wireframes iniciais | Explorar estrutura das telas     | Concluído     |
 | Baixa fidelidade    | Validar estrutura e navegação    | Concluído     |
 | Média fidelidade    | Refinar componentes e interações | Concluído     |
-| Alta fidelidade     | Definir interface visual         | Pendente     |
-| Validação final     | Avaliar e ajustar a solução      | Pendente     |
+| Alta fidelidade     | Definir interface visual         | Concluído     |
+| Validação final     | Avaliar e ajustar a solução      | Concluído     |
 | Implementação       | Transformar protótipo em sistema | Próxima etapa |
 
 ---
@@ -353,7 +353,7 @@ Cada evolução do protótipo é realizada a partir dos requisitos definidos, da
 * [x] Fluxo do produtor rural desenvolvido
 * [x] Protótipo de baixa fidelidade desenvolvido
 * [x] Protótipo de média fidelidade desenvolvido
-* [ ] Protótipo de alta fidelidade desenvolvido
+* [x] Protótipo de alta fidelidade desenvolvido
 * [x] Guia de estilo documentado
 * [x] Glossário visual documentado
 * [ ] Validação final do protótipo
@@ -365,7 +365,7 @@ Cada evolução do protótipo é realizada a partir dos requisitos definidos, da
 
 * **Repositório de Planejamento:** [GoSilo-Planejamento](https://github.com/cakketobio/GoSilo-Planejamento)
 * **Repositório de Protótipos:** [GoSilo-Prototipos](https://github.com/cakketobio/GoSilo-Prototipos)
-* **Repositório de Código:** Em desenvolvimento
+* **Repositório de Código:** [GoSilo-Codigo](https://github.com/cakketobio/GoSilo-Codigo)
 * **Board Kanban:** [Board Kanban do GoSilo](https://trello.com/invite/b/gdIdj7zz/ATTI027b16c041f19ee0085082933894d026F77FA151/projeto-integrador)
 
 ---
