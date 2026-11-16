@@ -55,7 +55,7 @@ O protótipo está organizado em quatro diretórios, agrupando as interfaces de 
 
 O diretório `pagina-login` reúne as telas relacionadas ao acesso e à autenticação dos usuários na plataforma.
 
-| Tela | Descrição |
+| Arquivo | Descrição |
 |---|---|
 | [Captura de tela 2026-11-16 111144.png](./pagina-login/Captura%20de%20tela%202026-11-16%20111144.png) | Primeira captura da sequência de telas de autenticação. |
 | [Captura de tela 2026-11-16 111156.png](./pagina-login/Captura%20de%20tela%202026-11-16%20111156.png) | Segunda captura da sequência de telas de autenticação. |
@@ -72,19 +72,19 @@ O diretório `dono-silo` reúne as interfaces destinadas aos proprietários de s
 
 As telas representam a experiência do usuário responsável por disponibilizar espaços de armazenagem, gerenciar seus silos e acompanhar as oportunidades relacionadas à plataforma.
 
-| Captura | Descrição |
+| Arquivo | Descrição |
 |---|---|
-| [111532](./dono-silo/Captura%20de%20tela%202026-11-16%20111532.png) | Interface do perfil Dono do Silo. |
-| [111543](./dono-silo/Captura%20de%20tela%202026-11-16%20111543.png) | Interface do fluxo do proprietário. |
-| [111554](./dono-silo/Captura%20de%20tela%202026-11-16%20111554.png) | Interface do fluxo do proprietário. |
-| [111604](./dono-silo/Captura%20de%20tela%202026-11-16%20111604.png) | Interface do fluxo do proprietário. |
-| [111621](./dono-silo/Captura%20de%20tela%202026-11-16%20111621.png) | Interface do fluxo do proprietário. |
-| [111630](./dono-silo/Captura%20de%20tela%202026-11-16%20111630.png) | Interface do fluxo do proprietário. |
-| [111647](./dono-silo/Captura%20de%20tela%202026-11-16%20111647.png) | Interface do fluxo do proprietário. |
-| [111656](./dono-silo/Captura%20de%20tela%202026-11-16%20111656.png) | Interface do fluxo do proprietário. |
-| [111706](./dono-silo/Captura%20de%20tela%202026-11-16%20111706.png) | Interface do fluxo do proprietário. |
-| [111724](./dono-silo/Captura%20de%20tela%202026-11-16%20111724.png) | Interface do fluxo do proprietário. |
-| [111802](./dono-silo/Captura%20de%20tela%202026-11-16%20111802.png) | Interface do fluxo do proprietário. |
+| [criacao-anuncio.png](./dono-silo/criacao-anuncio.png) | Interface para criação de um anúncio de armazenagem. |
+| [criacao-anuncios.png](./dono-silo/criacao-anuncios.png) | Captura complementar do fluxo de criação de anúncios. |
+| [edicao-perfil.png](./dono-silo/edicao-perfil.png) | Interface de edição dos dados do perfil do proprietário. |
+| [edicao-silos.png](./dono-silo/edicao-silos.png) | Interface de edição das informações dos silos cadastrados. |
+| [historico-conversas.png](./dono-silo/historico-conversas.png) | Histórico de conversas do proprietário. |
+| [home-page-dono.png](./dono-silo/home-page-dono.png) | Página inicial do perfil Dono do Silo. |
+| [leilao-ocorrendo-enceraddo.png](./dono-silo/leilao-ocorrendo-enceraddo.png) | Interface relacionada ao acompanhamento e encerramento de leilão. |
+| [leiloes-png](./dono-silo/leiloes-png) | Captura relacionada à área de leilões do proprietário. |
+| [perfil-dono.png](./dono-silo/perfil-dono.png) | Página de perfil do proprietário do silo. |
+| [resultado-leilao.png](./dono-silo/resultado-leilao.png) | Interface de apresentação do resultado de um leilão. |
+| [silos-cadastrados.png](./dono-silo/silos-cadastrados.png) | Listagem dos silos cadastrados pelo proprietário. |
 
 ---
 
@@ -92,20 +92,20 @@ As telas representam a experiência do usuário responsável por disponibilizar 
 
 O diretório `produto-rural` reúne as interfaces destinadas aos produtores rurais.
 
-As telas representam a experiência do usuário que procura oportunidades de armazenagem, consulta as opções disponíveis e acompanha os leilões da plataforma.
+As telas representam a experiência do usuário que procura oportunidades de armazenagem, consulta as opções disponíveis, realiza reservas e acompanha os leilões da plataforma.
 
-| Captura | Descrição |
+| Arquivo | Descrição |
 |---|---|
-| [112250](./produto-rural/Captura%20de%20tela%202026-11-16%20112250.png) | Interface do perfil Produtor Rural. |
-| [112258](./produto-rural/Captura%20de%20tela%202026-11-16%20112258.png) | Interface do fluxo do produtor. |
-| [112306](./produto-rural/Captura%20de%20tela%202026-11-16%20112306.png) | Interface do fluxo do produtor. |
-| [112315](./produto-rural/Captura%20de%20tela%202026-11-16%20112315.png) | Interface do fluxo do produtor. |
-| [112327](./produto-rural/Captura%20de%20tela%202026-11-16%20112327.png) | Interface do fluxo do produtor. |
-| [112337](./produto-rural/Captura%20de%20tela%202026-11-16%20112337.png) | Interface do fluxo do produtor. |
-| [112346](./produto-rural/Captura%20de%20tela%202026-11-16%20112346.png) | Interface do fluxo do produtor. |
-| [112356](./produto-rural/Captura%20de%20tela%202026-11-16%20112356.png) | Interface do fluxo do produtor. |
-| [112403](./produto-rural/Captura%20de%20tela%202026-11-16%20112403.png) | Interface do fluxo do produtor. |
-| [112414](./produto-rural/Captura%20de%20tela%202026-11-16%20112414.png) | Interface do fluxo do produtor. |
+| [cadastro-produto.png](./produto-rural/cadastro-produto.png) | Interface de cadastro das informações do produto agrícola. |
+| [confirmar-reserva.png](./produto-rural/confirmar-reserva.png) | Etapa de confirmação de uma reserva de armazenagem. |
+| [edicao-perfil.png](./produto-rural/edicao-perfil.png) | Interface de edição dos dados do perfil do produtor. |
+| [historico-conversas.png](./produto-rural/historico-conversas.png) | Histórico de conversas do produtor rural. |
+| [historico-leiloes.png](./produto-rural/historico-leiloes.png) | Histórico de leilões relacionados ao produtor. |
+| [home-page-andamento.png](./produto-rural/home-page-andamento.png) | Página inicial com informações de uma reserva ou processo em andamento. |
+| [home-page-programado.png](./produto-rural/home-page-programado.png) | Página inicial com informações de uma reserva programada. |
+| [home-page-reserva.png](./produto-rural/home-page-reserva.png) | Página inicial relacionada à consulta ou realização de reservas. |
+| [leilao.png](./produto-rural/leilao.png) | Interface de participação em leilão. |
+| [perfil-produtor.png](./produto-rural/perfil-produtor.png) | Página de perfil do produtor rural. |
 
 ---
 
@@ -115,42 +115,42 @@ O diretório `configuracoes` reúne as interfaces relacionadas às preferências
 
 Essas telas complementam a experiência dos usuários, contemplando opções de personalização e ajustes da interface.
 
-| Captura | Descrição |
+| Arquivo | Descrição |
 |---|---|
-| [112543](./configuracoes/Captura%20de%20tela%202026-11-16%20112543.png) | Interface de configurações da aplicação. |
-| [112551](./configuracoes/Captura%20de%20tela%202026-11-16%20112551.png) | Interface de configurações da aplicação. |
-| [112559](./configuracoes/Captura%20de%20tela%202026-11-16%20112559.png) | Interface de configurações da aplicação. |
-| [112616](./configuracoes/Captura%20de%20tela%202026-11-16%20112616.png) | Interface de configurações da aplicação. |
+| [idioma.png](./configuracoes/idioma.png) | Opção de configuração do idioma da aplicação. |
+| [pagina-configuracoes.png](./configuracoes/pagina-configuracoes.png) | Página principal de configurações. |
+| [sac.png](./configuracoes/sac.png) | Interface de acesso ao Serviço de Atendimento ao Consumidor (SAC). |
+| [tamanho-letra.png](./configuracoes/tamanho-letra.png) | Opção de ajuste do tamanho da fonte. |
 
 ---
 
 # Estrutura do diretório
 
-A organização dos arquivos foi definida separando as capturas de tela de acordo com os perfis de usuário e as funcionalidades gerais da aplicação.
+A organização dos arquivos separa as capturas de tela de acordo com os perfis de usuário e as funcionalidades gerais da aplicação.
 
 ```text
 prototipo-alta-fidelidade/
 │
-├── README.md
+├── README-ALTA-FIDELIDADE.md
 │
 ├── configuracoes/
-│   ├── Captura de tela 2026-11-16 112543.png
-│   ├── Captura de tela 2026-11-16 112551.png
-│   ├── Captura de tela 2026-11-16 112559.png
-│   └── Captura de tela 2026-11-16 112616.png
+│   ├── idioma.png
+│   ├── pagina-configuracoes.png
+│   ├── sac.png
+│   └── tamanho-letra.png
 │
 ├── dono-silo/
-│   ├── Captura de tela 2026-11-16 111532.png
-│   ├── Captura de tela 2026-11-16 111543.png
-│   ├── Captura de tela 2026-11-16 111554.png
-│   ├── Captura de tela 2026-11-16 111604.png
-│   ├── Captura de tela 2026-11-16 111621.png
-│   ├── Captura de tela 2026-11-16 111630.png
-│   ├── Captura de tela 2026-11-16 111647.png
-│   ├── Captura de tela 2026-11-16 111656.png
-│   ├── Captura de tela 2026-11-16 111706.png
-│   ├── Captura de tela 2026-11-16 111724.png
-│   └── Captura de tela 2026-11-16 111802.png
+│   ├── criacao-anuncio.png
+│   ├── criacao-anuncios.png
+│   ├── edicao-perfil.png
+│   ├── edicao-silos.png
+│   ├── historico-conversas.png
+│   ├── home-page-dono.png
+│   ├── leilao-ocorrendo-enceraddo.png
+│   ├── leiloes-png
+│   ├── perfil-dono.png
+│   ├── resultado-leilao.png
+│   └── silos-cadastrados.png
 │
 ├── pagina-login/
 │   ├── Captura de tela 2026-11-16 111144.png
@@ -161,23 +161,23 @@ prototipo-alta-fidelidade/
 │   └── Captura de tela 2026-11-16 111243.png
 │
 └── produto-rural/
-    ├── Captura de tela 2026-11-16 112250.png
-    ├── Captura de tela 2026-11-16 112258.png
-    ├── Captura de tela 2026-11-16 112306.png
-    ├── Captura de tela 2026-11-16 112315.png
-    ├── Captura de tela 2026-11-16 112327.png
-    ├── Captura de tela 2026-11-16 112337.png
-    ├── Captura de tela 2026-11-16 112346.png
-    ├── Captura de tela 2026-11-16 112356.png
-    ├── Captura de tela 2026-11-16 112403.png
-    └── Captura de tela 2026-11-16 112414.png
+    ├── cadastro-produto.png
+    ├── confirmar-reserva.png
+    ├── edicao-perfil.png
+    ├── historico-conversas.png
+    ├── historico-leiloes.png
+    ├── home-page-andamento.png
+    ├── home-page-programado.png
+    ├── home-page-reserva.png
+    ├── leilao.png
+    └── perfil-produtor.png
 ```
 
 ---
 
 # Resumo das telas
 
-| Categoria | Quantidade de capturas |
+| Categoria | Quantidade de arquivos |
 |---|---:|
 | Autenticação | 6 |
 | Dono do Silo | 11 |
@@ -185,7 +185,7 @@ prototipo-alta-fidelidade/
 | Configurações | 4 |
 | **Total** | **31** |
 
-> A quantidade considera os arquivos de imagem PNG atualmente presentes nos diretórios do protótipo.
+> A quantidade considera os arquivos presentes nos diretórios do protótipo, incluindo o arquivo `leiloes-png`, que está publicado sem extensão no repositório.
 
 ---
 
