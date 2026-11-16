@@ -55,14 +55,14 @@ O protótipo está organizado em quatro diretórios, agrupando as interfaces de 
 
 O diretório `pagina-login` reúne as telas relacionadas ao acesso e à autenticação dos usuários na plataforma.
 
-| Arquivo | Descrição |
+| **Arquivo** | **Descrição** |
 |---|---|
-| [Captura de tela 2026-11-16 111144.png](./pagina-login/Captura%20de%20tela%202026-11-16%20111144.png) | Primeira captura da sequência de telas de autenticação. |
-| [Captura de tela 2026-11-16 111156.png](./pagina-login/Captura%20de%20tela%202026-11-16%20111156.png) | Segunda captura da sequência de telas de autenticação. |
-| [Captura de tela 2026-11-16 111208.png](./pagina-login/Captura%20de%20tela%202026-11-16%20111208.png) | Terceira captura da sequência de telas de autenticação. |
-| [Captura de tela 2026-11-16 111222.png](./pagina-login/Captura%20de%20tela%202026-11-16%20111222.png) | Quarta captura da sequência de telas de autenticação. |
-| [Captura de tela 2026-11-16 111234.png](./pagina-login/Captura%20de%20tela%202026-11-16%20111234.png) | Quinta captura da sequência de telas de autenticação. |
-| [Captura de tela 2026-11-16 111243.png](./pagina-login/Captura%20de%20tela%202026-11-16%20111243.png) | Sexta captura da sequência de telas de autenticação. |
+| [cadastro-usuario.png](./pagina-login/cadastro-usuario.png) | Tela de cadastro de um novo usuário na plataforma. |
+| [selecao-funcao.png](./pagina-login/selecao-funcao.png) | Tela de seleção da função de utilização da plataforma. |
+| [login.png](./pagina-login/login.png) | Tela de acesso à plataforma por meio das credenciais do usuário. |
+| [recuperacao-senha.png](./pagina-login/recuperacao-senha.png) | Tela destinada à recuperação de acesso à conta. |
+| [criar-nova-senha.png](./pagina-login/criar-nova-senha.png) | Tela para definição de uma nova senha. |
+| [sac.png](./pagina-login/sac.png) | Tela relacionada ao Serviço de Atendimento ao Consumidor (SAC). |
 
 ---
 
